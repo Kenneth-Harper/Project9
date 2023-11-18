@@ -1,15 +1,15 @@
-# Project Name
+# Project 9 - Selfie a Day
 
-Description of the project ...
-
+Selfie a day meant as an exploration into firestore storage, and camerax.
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] User sees ...
-* [ ] User can ...
-* [ ] ...
-* [ ] ...
+* [ ] User can log in using firebase authentication.
+* [ ] User can shake the phone and get a camera screen.
+* [ ] User can take a selfie.
+* [ ] User can see a list of previously taken selfies.
+* [ ] User can touch a selfie and have it maximized.
 
 The following **extensions** are implemented:
 
@@ -20,13 +20,12 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='showcase.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While uploading to the firestore storage was relatively easy, querying and receiving data proved much trickier.
 
 ## License
 
