@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738191339233",
+    "project_id": "project9-selfies",
+    "storage_bucket": "project9-selfies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738191339233:android:6c1df59d4d5457e0e851a0",
+        "android_client_info": {
+          "package_name": "com.example.project9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIFQUFZUaBbg2xmLEwPhj9Q-UcuFcKRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
